@@ -1,2 +1,1 @@
-# Brightness_hotkey
-This script let's you change the brightness of your screen with hotkeys
+This is a python based script that changes your screen brightness on thinkpad laptops running GNU/ Linux
